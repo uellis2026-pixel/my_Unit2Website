@@ -1,0 +1,27 @@
+body {
+  background-color: aqua;
+}
+p {
+  color: black;
+  text-align: center;
+  font-family:fantasy
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  font-family: cursive;
+  
+}
+a {
+  font-family: monospace;
+  font-size: 30px;
+
+  
+ .klimt {
+    background-image: url("klimt.jpg");
+   justify-content:center
+  }
+
+
+  
+}

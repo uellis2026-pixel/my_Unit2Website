@@ -1,0 +1,32 @@
+body {
+  background-color: darkcyan;
+  
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-align: center
+}
+
+h3 {
+  color: cornsilk;
+  font-family:monospace
+}
+
+.hedda-sterne {
+  background-image: url("hedda-sterne.jpg");
+  
+}
+
+.klimt {
+  background-image: url("gustav-klimt.jpg");
+}
+
+.picasso {
+  background-image: url("picasso.jpg");
+}
+img {
+  width: 250px;
+}
